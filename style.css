@@ -1,0 +1,9 @@
+ body {
+    margin: 40px;
+    padding:0;
+
+  }
+  canvas {
+    border: 10px solid rgba(223, 238, 11, 0.973);
+  }
+  
